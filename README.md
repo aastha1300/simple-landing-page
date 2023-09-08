@@ -1,1 +1,4 @@
-# simple-landing-page
+# SIMPLE landing page
+
+SIMPLE is a clean, responsive html landing page for general use.
+
